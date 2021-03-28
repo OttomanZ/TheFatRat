@@ -1,5 +1,5 @@
 
-# TheFatRat 
+# TheFatRat VPS
 
 [![Version](https://img.shields.io/badge/TheFatRat-1.9.7-brightgreen.svg?maxAge=259200)]()
 [![Version](https://img.shields.io/badge/Codename-Whistle-red.svg?maxAge=259200)]()
@@ -10,7 +10,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
 
 
-###  A Massive Exploiting Tool
+###  A Massive Exploiting Tool Updated for VPS.
 
 ![Banner](https://user-images.githubusercontent.com/17976841/65820028-6ae17e00-e24e-11e9-894f-35836481cc2c.png)
 
